@@ -5,6 +5,13 @@ https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
 #EXTINF:-1 tvg-id="channel2" tvg-logo="https://example.com/logos/ch2.png" group-title="كرة القدم | الدوريات الأوروبية",قناة الدوري الممتاز
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
 
+#EXTINF:-1 tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="مباريات اليوم", ريال مدريد vs برشلونة
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="دوري أبطال أوروبا", الأهلي vs الزمالك
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
+
+
 # ===== كرة السلة =====
 #EXTINF:-1 tvg-logo="https://example.com/logos/nba.png" group-title="كرة السلة",NBA TV
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
