@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="https://example.com/epg.xml"
+# ===== كرة القدم =====
+#EXTINF:-1 tvg-id="bein1" tvg-logo="https://example.com/logos/bein1.png" group-title="كرة القدم | الدوريات الأوروبية",beIN Sports 1
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
+#EXTINF:-1 tvg-id="channel2" tvg-logo="https://example.com/logos/ch2.png" group-title="كرة القدم | الدوريات الأوروبية",قناة الدوري الممتاز
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
+
+# ===== كرة السلة =====
+#EXTINF:-1 tvg-logo="https://example.com/logos/nba.png" group-title="كرة السلة",NBA TV
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
+
+# ===== قنوات عامة =====
+#EXTINF:-1 tvg-logo="https://example.com/logos/news.png" group-title="إخباري",قناة إخبارية مجانية
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/bein1/bein1_1080p.mp4
