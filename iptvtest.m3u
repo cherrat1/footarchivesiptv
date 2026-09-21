@@ -1,21 +1,80 @@
-#EXTM3U x-tvg-url="https://example.com/epg.xml"
-# ===== كرة القدم =====
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://example.com/logos/bein1.png" group-title="كرة القدم | الدوريات الأوروبية",beIN Sports 1
+
+```m3u
+#EXTM3U
+
+# ==================================================
+# كرة القدم | الدوري الإسباني | موسم 2025-2026
+# ==================================================
+
+# ===== الجولة 1 =====
+
+# --- ريال مدريد vs برشلونة ---
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 1080p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_1080p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 720p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
-#EXTINF:-1 tvg-id="channel2" tvg-logo="https://example.com/logos/ch2.png" group-title="كرة القدم | الدوريات الأوروبية",قناة الدوري الممتاز
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 480p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
 
-#EXTINF:-1 tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="مباريات اليوم", ريال مدريد vs برشلونة
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
-
-#EXTINF:-1 tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="دوري أبطال أوروبا", الأهلي vs الزمالك
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
-
-
-# ===== كرة السلة =====
-#EXTINF:-1 tvg-logo="https://example.com/logos/nba.png" group-title="كرة السلة",NBA TV
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 360p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
 
-# ===== قنوات عامة =====
-#EXTINF:-1 tvg-logo="https://example.com/logos/news.png" group-title="إخباري",قناة إخبارية مجانية
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/bein1/bein1_1080p.mp4
+# --- فالنسيا vs الافيس ---
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 1080p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_1080p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 720p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 480p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 360p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
+
+
+# ===== الجولة 2 =====
+
+# --- ريال مدريد vs برشلونة ---
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 1080p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_1080p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 720p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 480p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
+
+#EXTINF:-1 tvg-id="real-barca" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة | 360p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
+
+
+# ==================================================
+# كرة القدم | دوري أبطال أوروبا | موسم 2025-2026
+# ==================================================
+
+# ===== الجولة 1 =====
+
+# --- الأهلي vs الزمالك ---
+
+#EXTINF:-1 tvg-id="ahly-zamalek" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="دوري أبطال أوروبا | 2025-2026 | الجولة 1",الأهلي vs الزمالك | 720p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
+
+#EXTINF:-1 tvg-id="ahly-zamalek" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="دوري أبطال أوروبا | 2025-2026 | الجولة 1",الأهلي vs الزمالك | 480p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
+
+
+# ==================================================
+# كرة السلة
+# ==================================================
+
+# ===== NBA | موسم 2025-2026 | الجولة 1 =====
+
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://example.com/logos/nba.png" group-title="NBA | 2025-2026 | الجولة 1",NBA TV | 360p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
+```
