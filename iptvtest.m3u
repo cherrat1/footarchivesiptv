@@ -1,47 +1,10 @@
-```m3u
 #EXTM3U
 
-# ==========================================================
-# الدوري الإسباني | موسم 2025-2026 | الجولة 1
-# ==========================================================
+#EXTINF:-1 group-title="الدوري الإسباني - موسم 2023-2024 - الجولة 32", tvg-logo="https://example.com/logos/elclasico.png", ريال مدريد vs برشلونة (1080p)
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%201080.mp4
 
-#EXTINF:-1 tvg-id="match-8" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="الدوري الإسباني | 2025-2026 | الجولة 1",ريال مدريد vs برشلونة
-#MATCH-ID:8
-#QUALITY:1080p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_1080p.mp4
+#EXTINF:-1 group-title="الدوري الإسباني - موسم 2023-2024 - الجولة 32", tvg-logo="https://example.com/logos/elclasico.png", ريال مدريد vs برشلونة (720p)
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%20720.mp4
 
-#QUALITY:720p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_720p.mp4
-
-#QUALITY:480p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_480p.mp4
-
-#QUALITY:360p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/8/8_360p.mp4
-
-
-# ==========================================================
-# الدوري الإنجليزي | موسم 2025-2026 | الجولة 2
-# ==========================================================
-
-#EXTINF:-1 tvg-id="city-chelsea-2" tvg-logo="https://example.com/logos/city-chelsea.jpg" group-title="الدوري الإنجليزي | 2025-2026 | الجولة 2",مانشستر سيتي vs تشيلسي
-https://gist.githubusercontent.com/cherrat1/c7086553f8a952f058f49817a2b8249c/raw/0722ee6799cbadf96cc3a7acd6d160fb497c6ae6/cityvschel2.m3u8
-
-# ==========================================================
-# دوري أبطال أوروبا | موسم 2025-2026 | الجولة 1
-# ==========================================================
-
-#EXTINF:-1 tvg-id="match-9" tvg-logo="https://semprebarca.com/wp-content/uploads/2026/01/FC-Barcelona-vs-Real-Madrid-Match-preview-Spanish-Super-Cup-1200x675.jpg.webp" group-title="دوري أبطال أوروبا | 2025-2026 | الجولة 1",الأهلي vs الزمالك
-#MATCH-ID:9
-#QUALITY:1080p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/9/9_1080p.mp4
-
-#QUALITY:720p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/9/9_720p.mp4
-
-#QUALITY:480p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/9/9_480p.mp4
-
-#QUALITY:360p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/9/9_360p.mp4
-```
+#EXTINF:-1 group-title="دوري أبطال أوروبا - موسم 2023-2024 - نصف النهائي", tvg-logo="https://example.com/logos/ucl.png", ريال مدريد vs بايرن ميونخ (1080p)
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%20480.mp4
