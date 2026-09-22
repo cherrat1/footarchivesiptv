@@ -1,10 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS SA #####" tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS SA",##### BEIN SPORTS SA #####
+http://tnvks.likane.cc:80/VZJEGVY/2AKT8PT/986991
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS NEWS 4K
+http://tnvks.likane.cc:80/VZJEGVY/2AKT8PT/27925
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS GLOBAL 4K
+http://tnvks.likane.cc:80/VZJEGVY/2AKT8PT/986972
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 4K" tvg-logo="https://go4.pw/BEIN4K.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 4K
+http://tnvks.likane.cc:80/VZJEGVY/2AKT8PT/1441958
 
-#EXTINF:-1 group-title="الدوري الإسباني - موسم 2023-2024 - الجولة 32", tvg-logo="https://img.btolat.com/2025/10/26/news/383327/large.jpg", ريال مدريد vs برشلونة (1080p)
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%201080.mp4
 
-#EXTINF:-1 group-title="الدوري الإسباني - موسم 2023-2024 - الجولة 32", tvg-logo="https://img.btolat.com/2025/10/26/news/383327/large.jpg", ريال مدريد vs برشلونة (720p)
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%20720.mp4
-
-#EXTINF:-1 group-title="دوري أبطال أوروبا - موسم 2023-2024 - نصف النهائي", tvg-logo="https://img.btolat.com/2025/10/26/news/383327/large.jpg", ريال مدريد vs بايرن ميونخ (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="AR - Like a Matchstick - زي عود الكبريت" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uobDLmyuo7mki9gjRTPyj3LF7i7.jpg" group-title="VOD | ARABIC",AR - Like a Matchstick - زي عود الكبريت
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/test/cityvschelsea%202%20480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - Eve's Apple - تفاحة حوا" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7p7EkSmylD3f8WcY6v9bQlCSvB.jpg" group-title="VOD | ARABIC",AR - Eve's Apple - تفاحة حوا
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Kimo & his Friend - كيمو.. وأنتيمو" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3i6x8MRR1WWRor0Uozneyy3lGNG.jpg" group-title="VOD | ARABIC",AR - Kimo & his Friend - كيمو.. وأنتيمو
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - It is OK - حصل خير" tvg-logo="http://212.8.253.112/logo/cover/vod-arab/hasal-kher.jpg" group-title="VOD | ARABIC",AR - It is OK - حصل خير
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Al Hasa Al Saba'a - الحاسة السابعة" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUlgZkyCOZYRcX12Tc3QnuvlDbz.jpg" group-title="VOD | ARABIC",AR - Al Hasa Al Saba'a - الحاسة السابعة
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Taitah Rahibah - تيتا راحيبة" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ5ZWVjNzctMDE0OS00ZTc0LTg0ODgtNjExY2JhN2M0NDk2XkEyXkFqcGdeQXVyMzE2NTE1MTU@._V1_.jpg" group-title="VOD | ARABIC",AR - Taitah Rahibah - تيتا راحيبة
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/79409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - A Mile In My Shoes - مسافة ميل" tvg-logo="http://212.8.253.112/logo/cover/vod-arab/masafat-mil.jpg" group-title="VOD | ARABIC",AR - A Mile In My Shoes - مسافة ميل
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/79413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - white pepper - فلفل ابيض" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EuYTluqQPOMlZQetkZHVbGw30O.jpg" group-title="VOD | ARABIC",AR - white pepper - فلفل ابيض
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/79411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Al Mahragan - المهرجان " tvg-logo="https://m.media-amazon.com/images/M/MV5BZThkOTA2NjAtYjY4Mi00OWM3LThjMjEtYTc5NjVhNGVjNTExXkEyXkFqcGdeQXVyMzI4MTk3MTY@._V1_.jpg" group-title="VOD | ARABIC",AR - Al Mahragan - المهرجان 
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/79402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - ODAMAA ELISLAM  من عظماء الاسلام" tvg-logo="http://212.8.253.112/logo/vod/logo%20vod/cxn5heia.bmp" group-title="VOD | ARABIC",AR - ODAMAA ELISLAM  من عظماء الاسلام
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/55766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - High Voltage - ضغط عالي" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xpzchrB4xKiAbqo5X5FsXjaeUb.jpg" group-title="VOD | ARABIC",AR - High Voltage - ضغط عالي
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - Sukkar Mor - سكر مر" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBZmnjPWoUVXsOUHdSrMjNxIwRI.jpg" group-title="VOD | ARABIC",AR - Sukkar Mor - سكر مر
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - El hob el awel - الحب الاول" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFlNDUzYzMtYWNlZC00N2ViLTlhOTAtNGI4NDQ4ZDRkOThkXkEyXkFqcGdeQXVyMzI4MTk3MTY@._V1_.jpg" group-title="VOD | ARABIC",AR - El hob el awel - الحب الاول
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - Zay El Naharda - زي نهار ده" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oToFrriApARNrals3krUFKZHODd.jpg" group-title="VOD | ARABIC",AR - Zay El Naharda - زي نهار ده
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80380.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" AR - Dasta Ashrar - ثمن دستة الاشرار" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOMVuNXffzPrsd4Q9pTNMYuKM47.jpg" group-title="VOD | ARABIC", AR - Dasta Ashrar - ثمن دستة الاشرار
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Mama's Boy - قلب امه" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO70NnpOULPakjGkDQVPaPgE0rN.jpg" group-title="VOD | ARABIC",AR - Mama's Boy - قلب امه
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Sugar On The Side - سكر برة" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raOQiPaKGsjxi8SSWf0X1omYBjF.jpg" group-title="VOD | ARABIC",AR - Sugar On The Side - سكر برة
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR - Shahr.3assal - شهر عسل" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWD1CFpZDpvasK0wtejM5zOcLAa.jpg" group-title="VOD | ARABIC",AR - Shahr.3assal - شهر عسل
+http://tnvks.likane.cc:80/movie/VZJEGVY/2AKT8PT/80368.mkv
